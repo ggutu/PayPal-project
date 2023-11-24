@@ -1,1 +1,1 @@
-this java web applicatio
+This is myapp.java web application for paypal
