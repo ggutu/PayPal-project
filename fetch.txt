@@ -1,0 +1,2 @@
+To see the effect of git fetch origin master please check git diff origin/master
+Then to merge using the command line git merge origin/master 
